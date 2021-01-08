@@ -1,0 +1,17 @@
+{
+   "data": [
+      {
+         "id": 0,
+         "username": "Mock User",
+         "user_avatar": "https://image.freepik.com/free-vector/modern-people-avatar-casual-clothes-vector-cartoon-illustration-man-with-individual-face-hair-light-digital-frame-dark-blue-computer-picture-web-profile_107791-4258.jpg",
+         "goals": [
+            {
+               "goals_id": "0",
+               "goals_description": "A mock goal description",
+               "goals_total": 5000,
+               "goals_deadline": "10/12/20"
+            }
+         ]
+      }
+   ]
+}
