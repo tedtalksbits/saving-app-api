@@ -1,0 +1,25 @@
+{
+  "name": "saving-app-api",
+  "version": "1.0.0",
+  "description": "Making a savings app",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tedtalksbits/saving-app-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tedtalksbits/saving-app-api/issues"
+  },
+  "homepage": "https://github.com/tedtalksbits/saving-app-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
