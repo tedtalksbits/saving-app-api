@@ -12,6 +12,19 @@
                "goals_deadline": "10/12/20"
             }
          ]
+      },
+      {
+         "id": 1,
+         "username": "Tedane Blake",
+         "user_avatar": "https://lh3.googleusercontent.com/ogw/ADGmqu9lU2E7RDnVBo7itM6e-7dmL7FN1Gja9e8s9INVhQ=s64-c-mo",
+         "goals": [
+            {
+               "goals_id": "2",
+               "goals_description": "Tedane Description",
+               "goals_total": 1000,
+               "goals_deadline": "10/20/21"
+            }
+         ]
       }
    ]
 }
