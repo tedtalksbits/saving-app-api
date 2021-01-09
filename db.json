@@ -6,7 +6,7 @@
          "user_avatar": "https://image.freepik.com/free-vector/modern-people-avatar-casual-clothes-vector-cartoon-illustration-man-with-individual-face-hair-light-digital-frame-dark-blue-computer-picture-web-profile_107791-4258.jpg",
          "goals": [
             {
-               "goals_id": 0,
+               "id": 0,
                "goals_description": "A mock goal description",
                "goals_total": 5000,
                "goals_deadline": "10/12/20"
@@ -19,7 +19,7 @@
          "user_avatar": "https://lh3.googleusercontent.com/ogw/ADGmqu9lU2E7RDnVBo7itM6e-7dmL7FN1Gja9e8s9INVhQ=s64-c-mo",
          "goals": [
             {
-               "goals_id": 1,
+               "id": 1,
                "goals_description": "Tedane Description",
                "goals_total": 1000,
                "goals_deadline": "10/20/21"
