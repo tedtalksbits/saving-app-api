@@ -2,8 +2,10 @@
    "data": [
       {
          "id": 0,
-         "username": "Mock User",
+         "username": "adam_eve",
          "user_avatar": "https://robohash.org/recusandaerationedolorum.png?size=500x500&set=set1",
+         "email": "haxcell0@wiley.com",
+         "location": "Smārde,Latvia",
          "goals": {
             "id": 0,
             "goals_description": "A mock goal description",
@@ -13,8 +15,10 @@
       },
       {
          "id": 1,
-         "username": "Tedane Blake",
+         "username": "tedtalksbits",
          "user_avatar": "https://i.ibb.co/Bcj7n32/Avatar-Maker.png",
+         "email": "pgraalman1@nytimes.com",
+         "location": "El Peñol,Colombia",
          "goals": {
             "id": 1,
             "goals_description": "Tedane Description",
@@ -26,6 +30,8 @@
          "id": "ecef4827-4abb-46e1-a190-bfbc6e837eab",
          "username": "trillett0",
          "user_avatar": "https://robohash.org/nonmolestiaset.png?size=500x500&set=set1",
+         "email": "mdrewitt2@ustream.tv",
+         "location": "Khyzy,Azerbaijan",
          "goals": {
             "id": 10,
             "goals_description": "Synergistic hybrid budgetary management",
@@ -37,6 +43,8 @@
          "id": "9c672f0d-64b2-40fd-b47f-237344eabbd3",
          "username": "dpealing1",
          "user_avatar": "https://robohash.org/quiaquibusdamfacilis.png?size=500x500&set=set1",
+         "email": "olowis3@goo.gl",
+         "location": "Chunghwa,North Korea",
          "goals": {
             "id": 2,
             "goals_description": "Progressive local monitoring",
@@ -48,6 +56,8 @@
          "id": "46994489-1dc8-4932-98b4-f613640f8e17",
          "username": "scobleigh2",
          "user_avatar": "https://robohash.org/nesciuntfugitquisquam.png?size=500x500&set=set1",
+         "email": "kjeffesb@ted.com",
+         "location": "Kolyvan’,Russia",
          "goals": {
             "id": 3,
             "goals_description": "Distributed full-range initiative",
@@ -59,6 +69,8 @@
          "id": "f794f5a5-4fcb-48bc-a204-bbd5d6c0b3ca",
          "username": "corlton3",
          "user_avatar": "https://robohash.org/utadet.png?size=500x500&set=set1",
+         "email": "lbarforda@jimdo.com",
+         "location": "Huaizhong,China",
          "goals": {
             "id": 4,
             "goals_description": "Advanced coherent policy",
@@ -70,6 +82,8 @@
          "id": "ba504a9b-b4a5-4ec5-aeec-95db566d80e3",
          "username": "sblundan4",
          "user_avatar": "https://robohash.org/velsuntbeatae.png?size=500x500&set=set1",
+         "email": "beckersall9@clickbank.net",
+         "location": "La Guama, Honduras",
          "goals": {
             "id": 5,
             "goals_description": "Polarised bottom-line info-mediaries",
@@ -81,6 +95,8 @@
          "id": "a169f6d7-e427-4253-abad-8272a377195b",
          "username": "lmorkham5",
          "user_avatar": "https://robohash.org/autsediusto.png?size=500x500&set=set1",
+         "email": "mmarginson8@nhs.uk",
+         "location": "Apitong,Philippines",
          "goals": {
             "id": 6,
             "goals_description": "Exclusive disintermediate hardware",
@@ -92,6 +108,8 @@
          "id": "e9cb8b3e-471e-4a0a-9fa4-f504dc9d4d7b",
          "username": "ghoudhury6",
          "user_avatar": "https://robohash.org/saepesimiliqueculpa.png?size=500x500&set=set1",
+         "email": "kbonifant7@photobucket.com",
+         "location": "Fenoarivo Atsinanana,Madagascar",
          "goals": {
             "id": 7,
             "goals_description": "Virtual background open architecture",
@@ -103,6 +121,8 @@
          "id": "9a9853d3-f552-481d-8839-fdff910ede27",
          "username": "dgoodlett7",
          "user_avatar": "https://robohash.org/iddelectusaliquid.png?size=500x500&set=set1",
+         "email": "rshillum6@photobucket.com",
+         "location": "Richmond,United States",
          "goals": {
             "id": 8,
             "goals_description": "Customizable encompassing info-mediaries",
@@ -114,6 +134,8 @@
          "id": "3a5a6fac-455a-4491-a877-1604c81f78f8",
          "username": "afilipovic8",
          "user_avatar": "https://robohash.org/eaarchitectooccaecati.png?size=500x500&set=set1",
+         "email": "dwebbbowen5@sphinn.com",
+         "location": "Daultāla,Pakistan",
          "goals": {
             "id": 9,
             "goals_description": "Virtual tangible firmware",
@@ -125,6 +147,8 @@
          "id": "90f18b30-cf68-4793-a356-691d20841932",
          "username": "cmadsen9",
          "user_avatar": "https://robohash.org/quilaboriosaminventore.png?size=500x500&set=set1",
+         "email": "juphill4@howstuffworks.com",
+         "location": "Autun,France",
          "goals": {
             "id": 10,
             "goals_description": "User-centric incremental interface",
